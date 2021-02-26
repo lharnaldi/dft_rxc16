@@ -1,0 +1,20 @@
+#Aux output files
+*.pdf
+*.csv
+*.coe
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.dat
+#Python check scripts
+*.py
+#Vim swap files
+*.swp
+#jupyter notebook checkpoints
+.ipynb_checkpoints
+#Xilinx checks and Vivado log files
+.Xil
+*.str
+
