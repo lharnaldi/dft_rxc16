@@ -1,7 +1,6 @@
 #Aux output files
 *.pdf
 *.csv
-*.coe
 *.aux
 *.bbl
 *.blg
